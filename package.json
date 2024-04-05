@@ -1,0 +1,18 @@
+{
+  "name": "svgo-dirs",
+  "version": "1.0.0",
+  "description": "Optimize svgs within a directory and watch to optimize any new svg files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["svg", "svgo","optimize"],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "find-up": "5",
+    "svgo": "^3.2.0"
+  },
+  "devDependencies": {}
+}
