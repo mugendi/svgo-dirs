@@ -8,7 +8,7 @@
 # SVGO-Dir
 
 ```javascript
-const Optimizer = require('SVGO-dirs');
+const Optimizer = require('svgo-dirs');
 
 // paths to watch and optimize svgs
 const staticDirs = [path.join(__dirname, './www/static')];
